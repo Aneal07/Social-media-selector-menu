@@ -5,7 +5,7 @@ This project is a simple web page that demonstrates a social media selector menu
 
 Getting Started
 To view the project, simply open the index.html file in your web browser. You can also view the live version on GitHub Pages here.
-https://aneal07.github.io/Social-media-selector-menu/
+[Live site](https://aneal07.github.io/Social-media-selector-menu/)
 
 Built With
 HTML
